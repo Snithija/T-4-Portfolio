@@ -82,7 +82,7 @@ function Footer({ type }) {
             <div className={type === 'portfolio' ? 'footer-icon' : 'footer-icon'}>
                 <div className='icon'>   
                   {/* I dont have instagram so i think it will open some other page */}
-                  <a href="https://www.instagram.com/snithija" target="_blank" rel="noopener noreferrer">
+                  <a href="https://www.instagram.com/snithijaraavi" target="_blank" rel="noopener noreferrer">
                     <img src={instagram} alt="instagram" />
                   </a>
                 </div>
@@ -156,7 +156,7 @@ function Footer({ type }) {
             <div className={type === 'portfolio' ? 'footer-icon' : 'footer-icon'}> 
                 <div className='icon'>   
                   {/* I dont have instagram so i think it will open some other thing*/}
-                  <a href="https://www.instagram.com/snithija" target="_blank" rel="noopener noreferrer">
+                  <a href="https://www.instagram.com/snithijaraavi" target="_blank" rel="noopener noreferrer">
                     <img src={instagram} alt="instagram" />
                   </a>
                 </div>
