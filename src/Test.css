@@ -1,7 +1,8 @@
 body {
   position: relative;
   width: 1440px;
-  height: 1766px;
+  height: 3866px;
+  /* min-height: 100vh; */
   background: #F9FAFF;
 }
 .main{
@@ -289,6 +290,7 @@ body {
   flex: none;
   order: 2;
   flex-grow: 0;
+  margin-top: 30px; 
 }
 
 .frame1 {
