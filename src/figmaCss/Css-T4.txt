@@ -1,0 +1,1595 @@
+/* T-4 */
+
+position: relative;
+width: 1440px;
+height: 3813px;
+
+/* bg / gray */
+background: #F9FAFF;
+
+
+/* image */
+
+position: absolute;
+width: 720px;
+height: 629px;
+right: 0px;
+top: 0px;
+
+
+
+/* yellow-bg */
+
+position: absolute;
+width: 777px;
+height: 877px;
+right: -57px;
+bottom: 0px;
+
+/* brand / yellow */
+background: #FDC435;
+
+
+/* image */
+
+position: absolute;
+width: 777px;
+height: 877px;
+left: 0px;
+top: -248px;
+
+
+
+/* Vector */
+
+position: absolute;
+width: 777px;
+height: 877px;
+right: -57px;
+bottom: 0px;
+
+background: #FFC637;
+
+
+/* pexels-artem-beliaikin-1832323-removebg-preview */
+
+position: absolute;
+width: 720px;
+height: 629px;
+right: 0px;
+bottom: 0px;
+
+background: url(pexels-artem-beliaikin-1832323-removebg-preview.png);
+
+
+/* header */
+
+position: absolute;
+height: 56px;
+left: 0px;
+right: 0px;
+top: 0px;
+
+
+
+/* Madelyn Torff */
+
+position: absolute;
+width: 130px;
+height: 32px;
+left: 120px;
+top: 12px;
+
+font-family: 'Comfortaa';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 180%;
+/* or 32px */
+
+/* font / high-emphasis */
+color: #25282B;
+
+
+
+/* nav */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 48px;
+
+position: absolute;
+width: 292px;
+height: 28px;
+right: 120px;
+top: 14px;
+
+
+
+/* tab / default */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 2px;
+
+width: 52px;
+height: 28px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Sobre */
+
+width: 52px;
+height: 28px;
+
+/* body / 18px */
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+/* font / high-emphasis */
+color: #25282B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* tab / default */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 2px;
+
+width: 69px;
+height: 28px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Sobre */
+
+width: 69px;
+height: 28px;
+
+/* body / 18px */
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+/* font / high-emphasis */
+color: #25282B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* tab / default */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 2px;
+
+width: 75px;
+height: 28px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Sobre */
+
+width: 75px;
+height: 28px;
+
+/* body / 18px */
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+/* font / high-emphasis */
+color: #25282B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* projects */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 80px;
+
+position: absolute;
+width: 992px;
+height: 1892px;
+left: calc(50% - 992px/2 - 2px);
+top: 773px;
+
+
+
+/* section-title */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+width: 181px;
+height: 80px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Text */
+
+width: 181px;
+height: 72px;
+
+/* title / h2 */
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 72px;
+/* identical to box height, or 150% */
+text-align: center;
+
+/* font / high-emphasis */
+color: #25282B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 19 */
+
+width: 100px;
+height: 4px;
+
+/* brand / yellow */
+background: #FDC435;
+border-radius: 2px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* project1 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 992px;
+height: 524px;
+
+filter: drop-shadow(0px 6px 64px rgba(112, 144, 176, 0.1));
+border-radius: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* project-nfo */
+
+width: 496px;
+height: 524px;
+
+/* bg / white */
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 3350 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+position: absolute;
+left: 10.17%;
+right: 7.84%;
+top: 27.96%;
+bottom: 27.77%;
+
+
+
+/* Text */
+
+width: 406.68px;
+height: 60px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 150%;
+/* identical to box height, or 60px */
+
+/* font / high-emphasis */
+color: #25282B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+width: 406.68px;
+height: 81px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+/* or 27px */
+
+/* font / medium-emphasis */
+color: #828282;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* botão / secudário */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 8px 24px;
+
+width: 150px;
+height: 43px;
+
+/* font / high-emphasis */
+border: 1px solid #25282B;
+border-radius: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Text */
+
+width: 102px;
+height: 27px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 150%;
+/* identical to box height, or 27px */
+
+/* font / high-emphasis */
+color: #25282B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* pexels-elly-fairytale-3823207 1 */
+
+width: 496px;
+height: 526px;
+
+background: url(pexels-elly-fairytale-3823207.jpg);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* project2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 992px;
+height: 524px;
+
+filter: drop-shadow(0px 6px 64px rgba(112, 144, 176, 0.1));
+border-radius: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Rectangle 7 */
+
+width: 496px;
+height: 524px;
+
+background: url(.jpg);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* project-nfo */
+
+width: 496px;
+height: 524px;
+
+/* bg / white */
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 3350 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+position: absolute;
+left: 10.17%;
+right: 7.84%;
+top: 30.53%;
+bottom: 30.34%;
+
+
+
+/* Text */
+
+width: 406.68px;
+height: 60px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 150%;
+/* identical to box height, or 60px */
+
+/* font / high-emphasis */
+color: #25282B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+width: 406.68px;
+height: 54px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+/* or 27px */
+
+/* font / medium-emphasis */
+color: #828282;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* botão / secudário */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 8px 24px;
+
+width: 150px;
+height: 43px;
+
+/* font / high-emphasis */
+border: 1px solid #25282B;
+border-radius: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Text */
+
+width: 102px;
+height: 27px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 150%;
+/* identical to box height, or 27px */
+
+/* font / high-emphasis */
+color: #25282B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* project3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 992px;
+height: 524px;
+
+filter: drop-shadow(0px 6px 64px rgba(112, 144, 176, 0.1));
+border-radius: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* project-nfo */
+
+width: 496px;
+height: 524px;
+
+/* bg / white */
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 3350 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+position: absolute;
+left: 10.17%;
+right: 7.84%;
+top: 30.53%;
+bottom: 30.34%;
+
+
+
+/* Text */
+
+width: 406.68px;
+height: 60px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 150%;
+/* identical to box height, or 60px */
+
+/* font / high-emphasis */
+color: #25282B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+width: 406.68px;
+height: 54px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+/* or 27px */
+
+/* font / medium-emphasis */
+color: #828282;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* botão / secudário */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 8px 24px;
+
+width: 150px;
+height: 43px;
+
+/* font / high-emphasis */
+border: 1px solid #25282B;
+border-radius: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Text */
+
+width: 102px;
+height: 27px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 150%;
+/* identical to box height, or 27px */
+
+/* font / high-emphasis */
+color: #25282B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 7 */
+
+width: 496px;
+height: 524px;
+
+background: url(.jpg);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* intro */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 12px;
+
+position: absolute;
+width: 486px;
+height: 408px;
+left: 120px;
+top: 111px;
+
+
+
+/* UI/UX Designer */
+
+width: 486px;
+height: 27px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 27px;
+text-transform: uppercase;
+
+/* brand / yellow */
+color: #FDC435;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* content */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 32px;
+
+width: 486px;
+height: 369px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Title */
+
+width: 486px;
+height: 154px;
+
+/* title/h1 */
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 120%;
+/* or 77px */
+
+/* Gray 1 */
+color: #333333;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* subheadline */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 12px;
+
+width: 486px;
+height: 108px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Text */
+
+width: 486px;
+height: 108px;
+
+/* body/24px */
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 36px;
+/* or 150% */
+
+/* Gray 3 */
+color: #828282;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* buttons */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 12px;
+
+width: 244px;
+height: 43px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* button / primary */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 8px 24px;
+
+width: 115px;
+height: 43px;
+
+/* brand / yellow */
+background: #FDC435;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Text */
+
+width: 67px;
+height: 27px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 150%;
+/* identical to box height, or 27px */
+
+/* font / high-emphasis */
+color: #25282B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* button / secondary */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 8px 24px;
+
+width: 117px;
+height: 43px;
+
+/* bg / line */
+border: 2px solid #25282B;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Text */
+
+width: 69px;
+height: 27px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 150%;
+/* identical to box height, or 27px */
+
+/* font / high-emphasis */
+color: #25282B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* footer / form */
+
+position: absolute;
+width: 1440px;
+height: 1004px;
+left: 0px;
+top: 2809px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 65.74%;
+bottom: 0%;
+
+/* brand / yellow */
+background: #FDC435;
+
+
+/* Frame 3352 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 56px;
+
+position: absolute;
+width: 400px;
+height: 603px;
+left: 520px;
+top: 160.5px;
+
+
+
+/* form */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-end;
+padding: 0px;
+gap: 24px;
+
+width: 400px;
+height: 445px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* form-group / input */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 400px;
+height: 70px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* label */
+
+width: 44px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Label */
+
+position: absolute;
+left: 0%;
+right: 2.27%;
+top: 0%;
+bottom: 0%;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height */
+
+/* font / high */
+color: #25282B;
+
+
+
+/* input */
+
+box-sizing: border-box;
+
+width: 400px;
+height: 40px;
+
+/* bg / white */
+background: #FFFFFF;
+border: 1px solid #E8ECF4;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Placeholder */
+
+position: absolute;
+visibility: hidden;
+height: 24px;
+left: 12px;
+right: 12px;
+top: calc(50% - 24px/2);
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+
+/* font/low */
+color: #9A9FA8;
+
+
+
+/* form-group / input */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 400px;
+height: 70px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* label */
+
+width: 44px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Label */
+
+position: absolute;
+left: 0%;
+right: 6.82%;
+top: 0%;
+bottom: 0%;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height */
+
+/* font / high */
+color: #25282B;
+
+
+
+/* input */
+
+box-sizing: border-box;
+
+width: 400px;
+height: 40px;
+
+/* bg / white */
+background: #FFFFFF;
+border: 1px solid #E8ECF4;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Placeholder */
+
+position: absolute;
+visibility: hidden;
+height: 24px;
+left: 12px;
+right: 12px;
+top: calc(50% - 24px/2);
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+
+/* font/low */
+color: #9A9FA8;
+
+
+
+/* form-group / textarea */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 400px;
+height: 190px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* label */
+
+width: 44px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Label */
+
+position: absolute;
+left: 0%;
+right: -47.73%;
+top: 0%;
+bottom: 0%;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height */
+
+/* font / high */
+color: #25282B;
+
+
+
+/* textarea */
+
+box-sizing: border-box;
+
+width: 400px;
+height: 160px;
+
+/* bg / white */
+background: #FFFFFF;
+border: 1px solid #E8ECF4;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Placeholder */
+
+position: absolute;
+visibility: hidden;
+height: 144px;
+left: 12px;
+right: 12px;
+top: calc(50% - 144px/2);
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+
+/* font/low */
+color: #9A9FA8;
+
+
+
+/* button / primary */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 8px 24px;
+
+width: 89px;
+height: 43px;
+
+/* brand / yellow */
+background: #FDC435;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Text */
+
+width: 41px;
+height: 27px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 150%;
+/* identical to box height, or 27px */
+
+/* font / high-emphasis */
+color: #25282B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* footer / icons */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 32px;
+
+width: 192px;
+height: 102px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icons */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 192px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* ph:instagram-logo-fill */
+
+width: 48px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 10.94%;
+right: 10.94%;
+top: 10.94%;
+bottom: 10.94%;
+
+/* bg / line */
+background: #25282B;
+
+
+/* bi:linkedin */
+
+width: 48px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Group */
+
+position: absolute;
+left: 10.42%;
+right: 10.42%;
+top: 10.42%;
+bottom: 10.42%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 10.42%;
+right: 10.42%;
+top: 10.42%;
+bottom: 10.42%;
+
+/* bg / line */
+background: #25282B;
+
+
+/* bi:envelope-fill */
+
+width: 48px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Group */
+
+position: absolute;
+left: 6.25%;
+right: 6.25%;
+top: 16.67%;
+bottom: 16.67%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.25%;
+right: 6.25%;
+top: 16.67%;
+bottom: 16.67%;
+
+/* bg / line */
+background: #25282B;
+
+
+/* Madelyn Torff 2021 */
+
+width: 143px;
+height: 22px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height */
+
+/* font / medium-emphasis */
+color: #828282;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* section-title */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+position: absolute;
+width: 181px;
+height: 80px;
+left: 618px;
+top: 0px;
+
+
+
+/* Text */
+
+width: 181px;
+height: 72px;
+
+/* title / h2 */
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 72px;
+/* identical to box height, or 150% */
+text-align: center;
+
+/* font / high-emphasis */
+color: #25282B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 19 */
+
+width: 100px;
+height: 4px;
+
+/* brand / yellow */
+background: #FDC435;
+border-radius: 2px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;

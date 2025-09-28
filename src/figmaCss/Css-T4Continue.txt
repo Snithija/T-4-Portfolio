@@ -1,0 +1,919 @@
+/* T-4 continue */
+
+position: relative;
+width: 1440px;
+height: 1766px;
+
+background: #F9FAFF;
+
+
+/* about me */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 32px;
+
+position: absolute;
+width: 588px;
+height: 313px;
+left: 120px;
+top: 200px;
+
+
+
+/* Title */
+
+width: 486px;
+height: 62px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 130%;
+/* or 62px */
+
+color: #333333;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Text */
+
+width: 588px;
+height: 144px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 150%;
+/* or 36px */
+
+color: #828282;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* botão / primário */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 8px 24px;
+
+width: 114px;
+height: 43px;
+
+/* brand / yellow */
+background: #FDC435;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Text */
+
+width: 66px;
+height: 27px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 150%;
+/* identical to box height, or 27px */
+
+color: #25282B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* bg-2 */
+
+position: absolute;
+width: 524px;
+height: 524px;
+left: 796px;
+top: 94px;
+
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 524px;
+height: 524px;
+right: 120px;
+top: 94px;
+
+/* brand / yellow */
+background: #FDC435;
+
+
+/* pexels-artem-beliaikin-1832323-removebg-preview */
+
+position: absolute;
+width: 524px;
+height: 524px;
+right: 120px;
+top: 94px;
+
+background: url(.png);
+border-radius: 600px;
+
+
+/* header */
+
+position: absolute;
+height: 56px;
+left: 0px;
+right: 0px;
+top: 0px;
+
+
+
+/* Madelyn Torff */
+
+position: absolute;
+width: 130px;
+height: 32px;
+left: 120px;
+top: 12px;
+
+font-family: 'Comfortaa';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 180%;
+/* or 32px */
+
+/* font / high-emphasis */
+color: #25282B;
+
+
+
+/* nav */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 48px;
+
+position: absolute;
+width: 292px;
+height: 32px;
+right: 120px;
+top: 14px;
+
+
+
+/* tab / active */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 2px;
+
+width: 52px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Sobre */
+
+width: 52px;
+height: 28px;
+
+/* body / 18px */
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+/* font / high-emphasis */
+color: #25282B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 11 */
+
+width: 52px;
+height: 2px;
+
+/* bg / line */
+background: #25282B;
+border-radius: 2px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* tab / default */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 2px;
+
+width: 69px;
+height: 28px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Sobre */
+
+width: 69px;
+height: 28px;
+
+/* body / 18px */
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+/* font / high-emphasis */
+color: #25282B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* tab / default */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 2px;
+
+width: 75px;
+height: 28px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Sobre */
+
+width: 75px;
+height: 28px;
+
+/* body / 18px */
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+/* font / high-emphasis */
+color: #25282B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* footer / form */
+
+position: absolute;
+width: 1440px;
+height: 1004px;
+left: 0px;
+top: 762px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 65.74%;
+bottom: 0%;
+
+/* brand / yellow */
+background: #FDC435;
+
+
+/* Frame 3352 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 56px;
+
+position: absolute;
+width: 400px;
+height: 603px;
+left: 520px;
+top: 160.5px;
+
+
+
+/* form */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-end;
+padding: 0px;
+gap: 24px;
+
+width: 400px;
+height: 445px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* form-group / input */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 400px;
+height: 70px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* label */
+
+width: 44px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Label */
+
+position: absolute;
+left: 0%;
+right: 2.27%;
+top: 0%;
+bottom: 0%;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height */
+
+/* font / high */
+color: #25282B;
+
+
+
+/* input */
+
+box-sizing: border-box;
+
+width: 400px;
+height: 40px;
+
+/* bg / white */
+background: #FFFFFF;
+border: 1px solid #E8ECF4;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Placeholder */
+
+position: absolute;
+visibility: hidden;
+height: 24px;
+left: 12px;
+right: 12px;
+top: calc(50% - 24px/2);
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+
+/* font/low */
+color: #9A9FA8;
+
+
+
+/* form-group / input */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 400px;
+height: 70px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* label */
+
+width: 44px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Label */
+
+position: absolute;
+left: 0%;
+right: 6.82%;
+top: 0%;
+bottom: 0%;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height */
+
+/* font / high */
+color: #25282B;
+
+
+
+/* input */
+
+box-sizing: border-box;
+
+width: 400px;
+height: 40px;
+
+/* bg / white */
+background: #FFFFFF;
+border: 1px solid #E8ECF4;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Placeholder */
+
+position: absolute;
+visibility: hidden;
+height: 24px;
+left: 12px;
+right: 12px;
+top: calc(50% - 24px/2);
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+
+/* font/low */
+color: #9A9FA8;
+
+
+
+/* form-group / textarea */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 400px;
+height: 190px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* label */
+
+width: 44px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Label */
+
+position: absolute;
+left: 0%;
+right: -47.73%;
+top: 0%;
+bottom: 0%;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height */
+
+/* font / high */
+color: #25282B;
+
+
+
+/* textarea */
+
+box-sizing: border-box;
+
+width: 400px;
+height: 160px;
+
+/* bg / white */
+background: #FFFFFF;
+border: 1px solid #E8ECF4;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Placeholder */
+
+position: absolute;
+visibility: hidden;
+height: 144px;
+left: 12px;
+right: 12px;
+top: calc(50% - 144px/2);
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+
+/* font/low */
+color: #9A9FA8;
+
+
+
+/* button / primary */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 8px 24px;
+
+width: 89px;
+height: 43px;
+
+/* brand / yellow */
+background: #FDC435;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Text */
+
+width: 41px;
+height: 27px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 150%;
+/* identical to box height, or 27px */
+
+/* font / high-emphasis */
+color: #25282B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* footer / icons */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 32px;
+
+width: 192px;
+height: 102px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icons */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 192px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* ph:instagram-logo-fill */
+
+width: 48px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 10.94%;
+right: 10.94%;
+top: 10.94%;
+bottom: 10.94%;
+
+/* bg / line */
+background: #25282B;
+
+
+/* bi:linkedin */
+
+width: 48px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Group */
+
+position: absolute;
+left: 10.42%;
+right: 10.42%;
+top: 10.42%;
+bottom: 10.42%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 10.42%;
+right: 10.42%;
+top: 10.42%;
+bottom: 10.42%;
+
+/* bg / line */
+background: #25282B;
+
+
+/* bi:envelope-fill */
+
+width: 48px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Group */
+
+position: absolute;
+left: 6.25%;
+right: 6.25%;
+top: 16.67%;
+bottom: 16.67%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.25%;
+right: 6.25%;
+top: 16.67%;
+bottom: 16.67%;
+
+/* bg / line */
+background: #25282B;
+
+
+/* Madelyn Torff 2021 */
+
+width: 143px;
+height: 22px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height */
+
+/* font / medium-emphasis */
+color: #828282;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* section-title */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+position: absolute;
+width: 181px;
+height: 80px;
+left: 618px;
+top: 0px;
+
+
+
+/* Text */
+
+width: 181px;
+height: 72px;
+
+/* title / h2 */
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 72px;
+/* identical to box height, or 150% */
+text-align: center;
+
+/* font / high-emphasis */
+color: #25282B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 19 */
+
+width: 100px;
+height: 4px;
+
+/* brand / yellow */
+background: #FDC435;
+border-radius: 2px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;

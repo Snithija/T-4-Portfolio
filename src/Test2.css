@@ -1,0 +1,207 @@
+body{
+position: relative;
+width: 1440px;
+/* height: 1766px; */
+background: #F9FAFF;
+}
+
+/* Nav Bar */
+.navbar{
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 48px;
+position: absolute;
+width: 292px;
+height: 28px;
+right: 120px;
+top: 14px;
+z-index: 2;
+}
+
+.navbar a {
+  color: #000000; 
+}
+
+/* Image of girl */
+.img-about{
+position: absolute;
+width: 524px;
+height: 524px;
+left: 796px;
+top: 94px;
+}
+
+/* About Me Section */
+.about{
+/* border: 2px solid green; */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 32px;
+position: absolute;
+width: 587px;
+height: 313px;
+left: 120px;
+top: 200px;
+}
+
+.title-about{
+width: 486px;
+height: 62px;
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 130%;
+color: #333333;
+margin-top: -10px;
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+
+.sub-about{
+width: 588px;
+height: 144px;
+margin-top: -30px;
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 150%;
+color: #828282;
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+}
+
+/* Button */
+.btn-about{
+    margin-top: 40px;
+}
+
+.primary-about{
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 8px 24px;
+width: 115px;
+height: 43px;
+background: #FDC435;
+border-radius: 8px;
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+/* Footer */
+.footer-about{
+position: absolute;
+width: 1440px;
+height: 1004px;
+left: 0px;
+top: 762px;
+}
+
+.section-title-footer-about{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 4px;
+position: absolute;
+width: 181px;
+height: 80px;
+left: 618px;
+top: 0px;
+}
+
+
+.frame-form-about{
+  display: flex;
+  flex-direction: column;  
+  align-items: center;     
+  position: absolute;
+  width: 400px;
+  top: 160px;
+  left: 520px;
+  gap: 20px;    
+}
+
+/* Footer Form */
+.form-about{
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;  
+gap: 24px;
+width: 100%;
+/* border: 3px solid black;  */
+padding: 20px;
+margin: 0;
+margin-left: -20px;
+}
+
+.form-group-about {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start; 
+  gap: 8px;
+  width: 100%;  
+}
+
+.send-btn-about {
+  align-self: flex-end; 
+  padding: 8px 24px;
+  background: #FDC435;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+/* Icons */
+.footer-icon-about {
+  text-align: center;      
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 24px;
+  width: 192px;
+  height: 48px;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+
+.ftext-about{
+width: 143px;
+height: 22px;
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+color: #828282;
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+.footer-wave-about{
+    width: 100;   
+    height: auto;
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 65.74%;
+    bottom: 0%;
+}
