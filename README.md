@@ -18,7 +18,8 @@ This template provides a minimal setup to get React working in Vite with HMR (Ho
 
 ## Description
 
-- Fully responsive portfolio website
+-Developed desktop view
+
 - Built following a Figma design
 - Includes Navbar, Footer, and project sections
 - Easy to extend with additional pages or components
