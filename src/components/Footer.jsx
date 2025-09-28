@@ -36,7 +36,7 @@ function Footer({ type }) {
         <div className='footer'>
           <div className="section-title-footer">
             <h2 className='text'>
-              Projects <div className="section-underline"></div>
+              Contact<div className="section-underline"></div>
             </h2>
           </div>
 
@@ -109,7 +109,7 @@ function Footer({ type }) {
         <div className='footer-about'>
           {/* Similar code for 'about' type */}
           <div className="section-title-footer-about">
-            <h2 className='text'>Projects <div className="section-underline"></div></h2>
+            <h2 className='text'>Contact<div className="section-underline"></div></h2>
           </div>
 
           <div className='frame-form-about'>

@@ -14,6 +14,8 @@ function App() {
       <Route path="/" element={<Portfolio />} />
       <Route path="/about" element={<About />} />
       <Route path="/projects" element={<Portfolio />} />
+
+       {/* <Route path="*" element={<Navigate to="/" replace />} /> */}
     </Routes>
   );
 }

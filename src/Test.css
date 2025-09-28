@@ -1,10 +1,11 @@
 body {
   position: relative;
   width: 1440px;
-  height: 3866px;
+  /* height: 3866px; */
   /* min-height: 100vh; */
   background: #F9FAFF;
 }
+
 .main{
   background-color: #F9FAFF;
 }
@@ -391,7 +392,6 @@ textarea {
 
 textarea {
   height: 120px;
-
 }
 
 .send-btn {
